@@ -1,0 +1,8 @@
+{
+    "label": "Information Disclosure",
+    "position": 150,
+    "link": {
+      "type": "generated-index",
+      "description": "Information Disclosure is a common vulnerability in web applications. Here is different types of Information Disclosure."
+    }
+  }

@@ -1,0 +1,8 @@
+{
+    "label": "Bug Bounty Resources",
+    "position": 2,
+    "link": {
+      "type": "generated-index",
+      "description": "Basic to advanced concepts of bug bounty hunting."
+    }
+  }

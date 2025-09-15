@@ -1,0 +1,8 @@
+{
+    "label": "Server-Side Attacks",
+    "position": 100,
+    "link": {
+      "type": "generated-index",
+      "description": "Server-side attacks are a type of security attack in which an attacker manipulates the server-side of a web application to execute malicious commands. Learn about different types of server-side attacks and how to prevent them."
+    }
+  }

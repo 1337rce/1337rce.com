@@ -1,0 +1,8 @@
+{
+    "label": "Authentication and Session Issues",
+    "position": 70,
+    "link": {
+      "type": "generated-index",
+      "description": "Authentication and session issues are common web vulnerabilities that can be exploited by attackers to gain unauthorized access to a web application. Learn how to identify and prevent these vulnerabilities."
+    }
+  }

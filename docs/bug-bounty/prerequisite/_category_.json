@@ -1,0 +1,9 @@
+{
+    "label": "Prerequisite",
+    "position": 10,
+    "link": {
+      "type": "generated-index",
+      "description": "The prerequisites for the Bug Bounty Bootcamp."
+    }
+  }
+  
