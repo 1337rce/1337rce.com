@@ -77,4 +77,4 @@ Bug bounty hunting is the practice of **finding and reporting security vulnerabi
 - Higher ranking on platforms = **more private invitations**.   
 ---
 
-**Explore More** → [Bug Bounty Bootcamp](/docs/category/bug-bounty-bootcamp)
+**Explore More** → [Bug Bounty Bootcamp](/docs/category/bug-bounty)
