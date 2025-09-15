@@ -96,7 +96,7 @@ const config: Config = {
           items: [
             {
               label: 'Tactics & Techniques', // The label for the first item
-              to: '/docs/intro',
+              to: '/docs/category/bug-bounty-resources',
             },
           ],
         },
