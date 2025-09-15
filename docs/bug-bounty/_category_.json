@@ -3,6 +3,7 @@
     "position": 2,
     "link": {
       "type": "generated-index",
+      "slug": "/bug-bounty",
       "description": "Basic to advanced concepts of bug bounty hunting."
     }
   }

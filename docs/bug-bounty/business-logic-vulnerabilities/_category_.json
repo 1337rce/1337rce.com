@@ -3,6 +3,7 @@
     "position": 120,
     "link": {
       "type": "generated-index",
+      "slug": "/bug-bounty/business-logic-vulnerabilities",
       "description": "Business Logic Vulnerabilities"
     }
   }

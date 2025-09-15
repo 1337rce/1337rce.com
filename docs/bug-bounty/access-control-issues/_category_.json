@@ -3,6 +3,7 @@
     "position": 80,
     "link": {
       "type": "generated-index",
+      "slug": "/bug-bounty/access-control-issues",
       "description": "Access control issues are common web vulnerabilities that can be exploited by attackers to gain unauthorized access to a web application. Learn how to identify and prevent these vulnerabilities."
     }
   }

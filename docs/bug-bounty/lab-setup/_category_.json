@@ -3,6 +3,7 @@
     "position": 20,
     "link": {
       "type": "generated-index",
+      "slug": "/bug-bounty/lab-setup",
       "description": "Learn how to set up your lab environment for the Bug Bounty Hunting."
     }
   }

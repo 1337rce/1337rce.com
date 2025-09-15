@@ -3,6 +3,7 @@
     "position": 90,
     "link": {
       "type": "generated-index",
+      "slug": "/bug-bounty/cross-site-issues",
       "description": "Cross site issues"
     }
   }

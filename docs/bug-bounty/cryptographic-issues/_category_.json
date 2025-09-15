@@ -3,6 +3,7 @@
     "position": 140,
     "link": {
       "type": "generated-index",
+      "slug": "/bug-bounty/cryptographic-issues",
       "description": "Cryptographic Issues"
     }
   }

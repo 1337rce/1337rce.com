@@ -3,6 +3,7 @@
     "position": 150,
     "link": {
       "type": "generated-index",
+      "slug": "/bug-bounty/information-disclosure",
       "description": "Information Disclosure is a common vulnerability in web applications. Here is different types of Information Disclosure."
     }
   }

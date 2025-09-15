@@ -3,6 +3,7 @@
     "position": 40,
     "link": {
       "type": "generated-index",
+      "slug": "/bug-bounty/reconnaissance",
       "description": "The basics of reconnaissance in bug bounty hunting."
     }
   }

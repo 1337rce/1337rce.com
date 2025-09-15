@@ -2,7 +2,7 @@
 sidebar_position: 1
 title: "Intro to Bug Bounty Hunting"
 description: "A beginner-friendly guide to understanding bug bounty hunting, platforms, rewards, and best practices."
-slug: "/bug-bounty-bootcamp/intro-to-bug-bounty-hunting"
+slug: "/bug-bounty/intro-to-bug-bounty-hunting"
 ---
 # Intro to Bug Bounty Hunting
 A beginner-friendly guide to understanding bug bounty hunting, platforms, rewards, and best practices.
@@ -77,4 +77,4 @@ Bug bounty hunting is the practice of **finding and reporting security vulnerabi
 - Higher ranking on platforms = **more private invitations**.   
 ---
 
-**Explore More** → [Bug Bounty Bootcamp](/docs/category/bug-bounty)
+**Explore More** → [Bug Bounty Resources](/docs/bug-bounty)
